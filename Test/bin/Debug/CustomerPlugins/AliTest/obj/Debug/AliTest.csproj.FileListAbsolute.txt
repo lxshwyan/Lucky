@@ -1,0 +1,7 @@
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Test\bin\Debug\CustomerPlugins\AliTest\obj\Debug\AliTest.csprojAssemblyReference.cache
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Test\bin\Debug\CustomerPlugins\AliTest\obj\Debug\AliTest.csproj.CoreCompileInputs.cache
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Test\bin\Debug\CustomerPlugins\AliTest\obj\Debug\AliTest.csproj.CopyComplete
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Test\bin\Debug\CustomerPlugins\AliTest\obj\Debug\AliTest.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Test\bin\Debug\CustomerPlugins\AliTest\obj\Debug\AliTest.pdb
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Test\bin\Debug\CustomerPlugins\AliTest.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Test\bin\Debug\CustomerPlugins\AliTest.pdb

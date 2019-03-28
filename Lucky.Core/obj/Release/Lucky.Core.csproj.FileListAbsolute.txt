@@ -1,0 +1,16 @@
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Core\bin\Release\Lucky.Core.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Core\bin\Release\Lucky.Core.pdb
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Core\bin\Release\Dapper.Contrib.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Core\bin\Release\Dapper.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Core\bin\Release\Dapper.Extension.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Core\bin\Release\EasyNetQ.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Core\bin\Release\log4net.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Core\bin\Release\RabbitMQ.Client.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Core\bin\Release\Dapper.xml
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Core\bin\Release\EasyNetQ.xml
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Core\bin\Release\log4net.xml
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Core\bin\Release\RabbitMQ.Client.xml
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Core\obj\Release\Lucky.Core.csproj.CoreCompileInputs.cache
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Core\obj\Release\Lucky.Core.csproj.CopyComplete
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Core\obj\Release\Lucky.Core.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Core\obj\Release\Lucky.Core.pdb

@@ -1,0 +1,17 @@
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Test\bin\Debug\Lucky.Test.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Test\bin\Debug\Lucky.Test.pdb
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Test\obj\Debug\Lucky.Test.csprojAssemblyReference.cache
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Test\obj\Debug\Lucky.Test.csproj.CoreCompileInputs.cache
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Test\obj\Debug\Lucky.Test.csproj.CopyComplete
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Test\obj\Debug\Lucky.Test.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\Lucky.Test\obj\Debug\Lucky.Test.pdb

@@ -1,0 +1,31 @@
+﻿/************************************************************************
+* Copyright (c) 2019 All Rights Reserved.
+*命名空间：Test
+*文件名： TestConfigInfo
+*创建人： Lxsh
+*创建时间：2019/1/7 13:19:58
+*描述
+*=======================================================================
+*修改标记
+*修改时间：2019/1/7 13:19:58
+*修改人：Lxsh
+*描述：
+************************************************************************/
+<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension=".cs" #>
+<#
+   string className="MyClass";
+   string[] properys=new string[]{"lxsh","lxsh1","lxshs"};
+#>
+public class <#=className #>
+{
+<#foreach(string p in properys) { #>         
+      public string <#=p #>{get;set;}
+<#} #>
+}
+
+

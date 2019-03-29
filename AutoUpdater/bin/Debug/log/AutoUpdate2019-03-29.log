@@ -1,0 +1,10 @@
+﻿[Error 2019-03-29 16:07:58]: AutoUpdate.UpdateManager.GetNewUpdateInfo:文件更新服务器连接异常:远程服务器返回错误: (404) 未找到。
+[Error 2019-03-29 16:08:15]: AutoUpdate.UpdateManager.GetNewUpdateInfo:文件更新服务器连接异常:远程服务器返回错误: (404) 未找到。
+[Error 2019-03-29 16:08:19]: AutoUpdate.UpdateManager.GetNewUpdateInfo:文件更新服务器连接异常:远程服务器返回错误: (404) 未找到。
+[Error 2019-03-29 16:09:20]: AutoUpdate.UpdateManager.GetNewUpdateInfo:文件更新服务器连接异常:远程服务器返回错误: (404) 未找到。
+[Error 2019-03-29 16:10:18]: AutoUpdate.UpdateManager.GetNewUpdateInfo:文件更新服务器连接异常:远程服务器返回错误: (404) 未找到。
+[Error 2019-03-29 16:11:01]: AutoUpdate.UpdateManager.GetNewUpdateInfo:文件更新服务器连接异常:远程服务器返回错误: (404) 未找到。
+[Error 2019-03-29 16:11:05]: AutoUpdate.FrmUpdate.Init:更新失败尚未提供文件名，因此无法启动进程。
+[Error 2019-03-29 16:13:19]: AutoUpdate.UpdateManager.GetNewUpdateInfo:文件更新服务器连接异常:远程服务器返回错误: (404) 未找到。
+[Error 2019-03-29 16:13:20]: AutoUpdate.FrmUpdate.StartMainApp:尚未提供文件名，因此无法启动进程。
+[Error 2019-03-29 16:13:20]: AutoUpdate.FrmUpdate.Init:更新失败未将对象引用设置到对象的实例。

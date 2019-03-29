@@ -1,0 +1,10 @@
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\AutoUpdateInterface\obj\Debug\AutoUpdateInterface.csproj.CoreCompileInputs.cache
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\AutoUpdateInterface\bin\Debug\AutoUpdateInterface.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\AutoUpdateInterface\bin\Debug\AutoUpdateInterface.pdb
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\AutoUpdateInterface\obj\Debug\AutoUpdateInterface.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\AutoUpdateInterface\obj\Debug\AutoUpdateInterface.pdb
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\AutoUpdateInterface\bin\Debug\System.Net.Http.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\AutoUpdateInterface\bin\Debug\System.Net.Http.xml
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\AutoUpdateInterface\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\AutoUpdateInterface\obj\Debug\AutoUpdateInterface.csproj.CopyComplete
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\AutoUpdateInterface\bin\Debug\ICSharpCode.SharpZipLib.dll

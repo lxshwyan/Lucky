@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AutoUpdate>
+	<!--升级文件所在服务器端的网址-->
+	<URLAddress URL="http://127.0.0.1/DownLoadFiles"/>
+	<Application>
+		<!--主程序入口-->
+		<EntryPoint ApplicationID="SocketTool.exe"/>
+		<Location ip="127.0.0.1"/>
+		<Version Num="1.0.0.0"/>
+	</Application>
+	<UpdateInfo>
+		<!--升级文件的更新日期-->
+		<UpdateTime Date= "2017-01-22 12:00"/>
+		<!--升级文件的版本号(每次更新必须升级版本)-->
+		<Version Num= "1.0.0.1"/>
+	</UpdateInfo>
+	<UpdateFileList>
+		<!--升级文件列表-->
+		<UpdateFile Ver="1.0.0.1" FileName= "test.rar" ContentLength="21k"/>
+	</UpdateFileList>
+</AutoUpdate>

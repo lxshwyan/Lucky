@@ -1,0 +1,12 @@
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\TestAutoUpdater\obj\Debug\TestAutoUpdater.csprojAssemblyReference.cache
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\TestAutoUpdater\obj\Debug\TestAutoUpdater.Form1.resources
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\TestAutoUpdater\obj\Debug\TestAutoUpdater.Properties.Resources.resources
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\TestAutoUpdater\obj\Debug\TestAutoUpdater.csproj.GenerateResource.cache
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\TestAutoUpdater\obj\Debug\TestAutoUpdater.csproj.CoreCompileInputs.cache
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\TestAutoUpdater\bin\Debug\TestAutoUpdater.exe
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\TestAutoUpdater\bin\Debug\TestAutoUpdater.pdb
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\TestAutoUpdater\bin\Debug\AutoUpdateInterface.dll
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\TestAutoUpdater\bin\Debug\AutoUpdateInterface.pdb
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\TestAutoUpdater\obj\Debug\TestAutoUpdater.csproj.CopyComplete
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\TestAutoUpdater\obj\Debug\TestAutoUpdater.exe
+F:\研发一部\5.源代码\6.组件库\Lucky-maste\TestAutoUpdater\obj\Debug\TestAutoUpdater.pdb
